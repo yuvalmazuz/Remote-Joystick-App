@@ -1,0 +1,2 @@
+rootProject.name = "remoteJoystick"
+include ':app'
